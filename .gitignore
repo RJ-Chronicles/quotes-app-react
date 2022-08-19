@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+src-quote-app-dom@5.zip
+src-basics.zip
+.firebase
 # testing
 /coverage
 
